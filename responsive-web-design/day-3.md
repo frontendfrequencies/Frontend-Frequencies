@@ -8,10 +8,10 @@ Example: `<link rel="stylesheet" href="./styles.css />`
 - href = location of resouce
 - `./` tell computer to look in the current folder for `styles.css`
 
-*Link Element should be placed in the `,head.`
+*Link Element should be placed in the `<head>`.
 
 #### Google Fonts
-Free & open source, provide you with the HTML (how neat!)
+Free & open source, provides you with the HTML (how neat!)
 
 ### HTML Boilerplate
 Foundation for the house!

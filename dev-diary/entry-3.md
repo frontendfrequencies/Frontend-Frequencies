@@ -33,7 +33,7 @@ Now that I have a clear path forward, a rock-solid plan, and a better understand
 
 *End of entry — Walks Tall*
 
-Have questions or want to comment? <a href="https://frontendfrequencies.dev/contact)" target="_blank">Visit my contact page</a>
+Have questions or want to comment? <a href="https://frontendfrequencies.dev/contact" target="_blank">Visit my contact page</a>
 
 My favicon image (up close)
 <img src="https://raw.githubusercontent.com/frontendfrequencies/Home/main/dev-diary-photos/round-logo.png" alt="Frontend Frequencies favicon" />

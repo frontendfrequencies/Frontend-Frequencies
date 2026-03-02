@@ -43,3 +43,7 @@ To close things out, here’s my favorite thing I learned today: how to embed an
 The code looks like this: `<img src="https://raw.githubusercontent.com/frontendfrequencies/Home/main/assets/robot-car.jpg)" alt="Robot Car" />`
 
 Here is the rendered output: <img src="https://raw.githubusercontent.com/frontendfrequencies/Home/main/assets/robot-car.jpg" alt="Robot Car" />
+
+*End of entry — Walks Tall*
+
+Have questions or want to comment? <a href="https://frontendfrequencies.dev/contact" target="_blank">Visit my contact page</a>

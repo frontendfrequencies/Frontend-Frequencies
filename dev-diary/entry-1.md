@@ -29,3 +29,7 @@ So far, my coursework has been pretty straightforward. The hardest thing for me 
 ### Final Thoughts
 
 Tonight I'm meeting up with my best friend from high school. He is the one who convinced me to go into theatre with him our sophomore year. That was a turning point in my life because I ended up majoring in Theatre Arts and, ironically enough, he majored in Web Design. After nearly 20 years working in live entertainment, I can honestly say that building a website is exactly the same. There is an audience (the user), a curtain (the interface), and behind the scenes (all of the beautiful code that makes it function). I can't wait to share my new project with him. 
+
+*End of entry — Walks Tall*
+
+Have questions or want to comment? <a href="https://frontendfrequencies.dev/contact" target="_blank">Visit my contact page</a>

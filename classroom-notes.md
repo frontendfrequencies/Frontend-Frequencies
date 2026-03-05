@@ -6,4 +6,4 @@
 - [Day 2 – Elements & Attributes](responsive-web-design/day-2)
 - [Day 3 – Boilerplate](responsive-web-design/day-3)
 - [Day 4 – My First HTML Document](responsive-web-design/day-4)
-- [Day 5 – div, id, & class Elements, + HTML Entities](responsive-web-design/day-5)
+- [Day 5 – div, id, class, & script Elements, + HTML Entities](responsive-web-design/day-5)

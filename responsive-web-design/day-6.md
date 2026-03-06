@@ -8,11 +8,19 @@
 <a href="https://github.com/frontendfrequencies/Home/blob/a486624c46ec510e79eea634e8058b0398d4fbb5/responsive-web-design/day-6-bookstore.html" target="_blank">Raw Code</a>  
 <a href="https://frontendfrequencies.dev/responsive-web-design/day-6-bookstore" target="_blank">Rendered Output</a>
 
+#### Travel Agency Page
+<a href="https://github.com/frontendfrequencies/Home/blob/a92ee8bf566ff3110d9659d6b1da4cf7e2a4934b/responsive-web-design/day-6-travel-agency.html" target="_blank">Raw Code</a>  
+<a href="https://frontendfrequencies.dev/responsive-web-design/day-6-travel-agency" target="_blank">Rendered Output</a>
+
+#### How to: Image + Hyperlink + Caption
+`<figure> <a href="url" target="_blank"> <img src="image.jpeg" alt="Description"> </a> <figcaption>Caption</figcaption> </figure>`
+
 ### Meta Elements
 - `<meta>`
 - Void element
-- `<meta name="description" description="This page is about such and such">` helps with SEO (Search Engine Optimization)
-- The text in the description attribute will appear in the web search results.
+- Helps with SEO (Search Engine Optimization)
+- `<meta name="description" content="Discover expert tips and techniques for gardening">` (write the name="description" part exactly as is)
+- The text in the content attribute will appear in the web search results.
 
 ### Open Graph Tags
 Tell social media platforms how to display your page when it’s shared, like the title, image, and link.
